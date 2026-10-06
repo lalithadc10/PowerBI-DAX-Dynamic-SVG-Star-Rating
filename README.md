@@ -253,16 +253,10 @@ This mini-project helped me understand that a Power BI feature becomes more valu
 
 My learning journey was:
 
-Business Question
-        ↓
+Business Question       
 Identify Relevant Metrics
-        ↓
 Create DAX Logic
-        ↓
 Generate SVG
-        ↓
 Display as Image URL
-        ↓
 Improve Visual Communication
-        ↓
 Support Business Investigation
