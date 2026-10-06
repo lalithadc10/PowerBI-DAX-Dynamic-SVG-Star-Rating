@@ -74,9 +74,9 @@ Product Average Rating
    Return Image URL
           ↓
  Display Inside Power BI
- ---
+ 
 
-# 🧠 DAX Logic
+#  DAX Logic
 
 The star rating is created using a DAX measure.
 
