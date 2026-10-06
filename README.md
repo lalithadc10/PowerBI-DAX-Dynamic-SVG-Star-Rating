@@ -80,9 +80,9 @@ Product Average Rating
 
 The star rating is created using a DAX measure.
 
-The measure first retrieves the product's average rating using `SELECTEDVALUE()` and then checks each star position using `IF()`.
+The measure first retrieves the product's average rating using `SELECTEDVALUE()` and then checks each star position using IF()
 
-```DAX
+DAX
 SVG Star Rating = 
 
 VAR Rating =
