@@ -63,7 +63,6 @@ The DAX measure reads the current product's rating and determines which stars sh
 
 #  How It Works
 
-```text
 Product Average Rating
           ↓
       DAX Measure
@@ -201,9 +200,6 @@ The important learning from this project was that the SVG itself is not the insi
 The SVG simply makes the information easier to consume.
 
 The analytical flow is:
-
-```text
-
 Business Question
         ↓
 Identify Relevant Metrics
