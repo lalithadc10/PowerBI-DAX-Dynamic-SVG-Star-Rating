@@ -253,7 +253,6 @@ This mini-project helped me understand that a Power BI feature becomes more valu
 
 My learning journey was:
 
-```text
 Business Question
         ↓
 Identify Relevant Metrics
