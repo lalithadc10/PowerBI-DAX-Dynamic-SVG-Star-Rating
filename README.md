@@ -127,8 +127,9 @@ VAR Star5 =
     )
 
 RETURN
-    -- SVG generated dynamically based on rating
-.
+
+SVG generated dynamically based on rating
+
 #  Business Analysis Approach
 
 Rather than creating the SVG only as a design exercise, I connected it to a simple product-performance question.
@@ -151,9 +152,7 @@ For example:
 
 The purpose is not to assume the reason behind the rating, but to identify **where further analysis may be useful**.
 
----
-
-  Why Use SVG?
+Why Use SVG?
 
 Power BI already provides standard visuals and conditional formatting.
 
@@ -168,8 +167,6 @@ SVG provided control over:
 - Visual appearance
 
 This helped me understand how **DAX logic can drive a custom visual element**.
-
----
 
 #  Business Questions This Visual Can Support
 
